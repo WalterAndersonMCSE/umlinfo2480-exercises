@@ -2,14 +2,14 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Learn CF</title>
+	<title>Learn CF Exercises</title>
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
 </head>
 <cfparam name="p" default="welcome">
 <body>
 	<div id="wrapper" class="container">
 		<header >
-			<div class="col-12"><h1 class="page-title">Learn CF</h1></div>
+			<div class="col-12"><h1 class="page-title">Learn CF Exercises</h1></div>
 		</header>
 		<div class="row">
 			<nav class="col-lg-3">
