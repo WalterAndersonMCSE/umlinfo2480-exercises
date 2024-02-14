@@ -11,7 +11,8 @@
      
       <cfset pageController=createObject("query1") />
        <cfset allBooks = "#pageController.allBooks()#" />   
-        <cfdump var="#allBooks#" />Exercise: Create a working query 4 
-       
+        <cfdump var="#allBooks#" />Exercise: Create a working query 4 <br/>
+       <cfoutput>    Allbooks has #allbooks.recordcount# books in it and  
+       the columns are  <br/>   #allbooks.columnlist# </cfoutput>
      </body>
  </html>
