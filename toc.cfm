@@ -7,6 +7,7 @@
 		<li  class="navitem"><a href="#cgi.SCRIPT_NAME#?p=MyVariables">MyVariables.cfm</a>
 		<li  class="navitem"><a href="#cgi.SCRIPT_NAME#?p=MyArray">MyArray.cfm</a>
 		<li  class="navitem"><a href="#cgi.SCRIPT_NAME#?p=myForm">MyForm.cfm</a>
+		<li  class="navitem"><a href="#cgi.SCRIPT_NAME#?p=MathFunction">MathFunction.cfm</a>
 	 
 	</ul>
 </cfoutput>    
